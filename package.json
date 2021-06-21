@@ -16,7 +16,7 @@
     "leaflet-defaulticon-compatibility": "0.1.1",
     "leaflet.markercluster": "1.5.0",
     "moment": "2.29.1",
-    "serialize-javascript": "5.0.1",
+    "serialize-javascript": "6.0.0",
     "vue": "2.6.12",
     "vue-axios": "3.2.4",
     "vue-class-component": "7.2.6",
